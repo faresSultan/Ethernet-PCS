@@ -1,0 +1,280 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dD:/Digital IC design/ethernet-pcs
+T_opt
+!s110 1784649081
+VCS8HJ<V@S<<PO1ijdhR4I2
+Z2 04 6 4 work tb_top fast 0
+=1-ccf9e498c556-6a5f9578-33b-7344
+Z3 !s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1784658376
+V^1mfg5zch0ob?E3zTJK]`1
+R2
+=1-ccf9e498c556-6a5fb9c8-16d-d9c
+R3
+o-quiet -auto_acc_if_foreign -work work +acc
+R4
+n@_opt1
+R5
+vcomma_align
+Z6 !s110 1784658374
+!i10b 1
+!s100 MVa^Dgl;L<DeSa7dBk>Jf3
+I2Z5[kOgL=Q;cRT;HeV]h<1
+R1
+Z7 w1784645023
+8rtl/comma_align.v
+Frtl/comma_align.v
+!i122 8
+Z8 L0 1 3
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z11 !s108 1784658374.000000
+Z12 !s107 rtl/pcs_tx.v|rtl/pcs_top.v|rtl/pcs_sync.v|rtl/pcs_rx.v|rtl/encoder_8b10b.v|rtl/enc_5b6b.v|rtl/enc_3b4b.v|rtl/elastic_buffer.v|rtl/decoder_8b10b.v|rtl/comma_align.v|
+Z13 !s90 -reportprogress|300|rtl/comma_align.v|rtl/decoder_8b10b.v|rtl/elastic_buffer.v|rtl/enc_3b4b.v|rtl/enc_5b6b.v|rtl/encoder_8b10b.v|rtl/pcs_rx.v|rtl/pcs_sync.v|rtl/pcs_top.v|rtl/pcs_tx.v|
+!i113 0
+Z14 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+vdecoder_8b10b
+R6
+!i10b 1
+!s100 CoUZJi0=icc2^H]DCl>4X2
+InOE7NCh3`;NXMe][03>PS2
+R1
+R7
+8rtl/decoder_8b10b.v
+Frtl/decoder_8b10b.v
+!i122 8
+R8
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R4
+velastic_buffer
+R6
+!i10b 1
+!s100 e0Wz9;X?@FNZEZY3;zDU`3
+I[DoB6zY]5=l<IbFNJznQI3
+R1
+R7
+8rtl/elastic_buffer.v
+Frtl/elastic_buffer.v
+!i122 8
+R8
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R4
+venc_3b4b
+R6
+!i10b 1
+!s100 0nl3Zg>^9=zF098b^OaoH0
+I0ZB@MJL]kj2`TQTcASM393
+R1
+R7
+8rtl/enc_3b4b.v
+Frtl/enc_3b4b.v
+!i122 8
+R8
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R4
+venc_5b6b
+R6
+!i10b 1
+!s100 2cK4of[k@nokkHS51FeQ12
+IVC=Wn@UEJ=0FHifzZ@<8O3
+R1
+w1784656699
+8rtl/enc_5b6b.v
+Frtl/enc_5b6b.v
+!i122 8
+L0 5 143
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R4
+vencoder_8b10b
+R6
+!i10b 1
+!s100 <X5Vm<7akdJFX`;>5711f3
+IIE@S78f`dDlaGb]IghX=b2
+R1
+R7
+8rtl/encoder_8b10b.v
+Frtl/encoder_8b10b.v
+!i122 8
+R8
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R4
+vpcs_rx
+R6
+!i10b 1
+!s100 YAfTCR?Kj[79VmDD`5=mK0
+ISR9^;OmZHezU9Z6UG;SO<3
+R1
+R7
+8rtl/pcs_rx.v
+Frtl/pcs_rx.v
+!i122 8
+R8
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R4
+vpcs_sync
+R6
+!i10b 1
+!s100 T@5Mi`i>ZJOQkX;mS3g@C0
+I7daPT6QW4057NP5SneJ>k1
+R1
+R7
+8rtl/pcs_sync.v
+Frtl/pcs_sync.v
+!i122 8
+R8
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R4
+vpcs_top
+R6
+!i10b 1
+!s100 VMzLImkYNY?V1<aEA_30l1
+IXZz:]9b]]g8UPWVY`z4Mj1
+R1
+R7
+8rtl/pcs_top.v
+Frtl/pcs_top.v
+!i122 8
+R8
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R4
+vpcs_tx
+R6
+!i10b 1
+!s100 735dGX66PRz4<Kn]Y<[_N3
+IU5aRb0JY_<GNRA0Leeneg2
+R1
+R7
+8rtl/pcs_tx.v
+Frtl/pcs_tx.v
+!i122 8
+R8
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R4
+vtb_top
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R6
+!i10b 1
+!s100 5Uj?G<7bGcf]>>=W3;9<91
+ImUGAVVo>0QC=L>h9>H`V22
+S1
+R1
+w1784658360
+8tb/tb_top.sv
+Ftb/tb_top.sv
+!i122 9
+L0 1 123
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 tb/tb_top.sv|
+!s90 -reportprogress|300|tb/tb_top.sv|
+!i113 0
+R14
+R4
