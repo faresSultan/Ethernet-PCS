@@ -42,7 +42,7 @@ module enc_5b6b (
             end
             5'd7  : begin 
                 dout   = rd_in ? 6'b000111 : 6'b111000;
-                rd_out = ~rd_in;
+                rd_out = rd_in;
             end
             5'd8  : begin
                 dout   = rd_in ? 6'b000110 : 6'b111001;
